@@ -1260,7 +1260,7 @@ export default function Home() {
             >
               <div className="rounded-full px-2 py-1 bg-green-500 text-white text-xs inline-block mb-2">Career Pivot</div>
               <h3 className={`mb-3 text-xl font-semibold`}>
-                9 Career Change Stories That'll Inspire You to Take the Leap{' '}
+                9 Career Change Stories That&apos;ll Inspire You to Take the Leap{' '}
                 <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                   -&gt;
                 </span>
@@ -1292,7 +1292,7 @@ export default function Home() {
             >
               <div className="rounded-full px-2 py-1 bg-green-500 text-white text-xs inline-block mb-2">Career Pivot</div>
               <h3 className={`mb-3 text-xl font-semibold`}>
-                Why some of us don't have one true calling{' '}
+                Why some of us don&apos;t have one true calling{' '}
                 <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                   -&gt;
                 </span>
