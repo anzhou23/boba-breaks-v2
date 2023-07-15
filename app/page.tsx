@@ -10,7 +10,7 @@ export default function Home() {
 
       <main className="items-center p-24">
         <div className="w-full max-w-5xl items-center mx-auto text-center">
-          <h1 className="font-mono text-5xl">Not Your Grandma&apos;s Resource Center</h1>
+          <h1 className="font-mono text-5xl">Dream Bigger</h1>
           <p className="mt-4">If you&apos;ve found your way here, you&apos;re likely in the midst of considering a change in your career or thinking about going back to school. This is your go-to community for
           all things related to exploring new career paths and educational opportunities.</p>
         </div>
