@@ -10,7 +10,7 @@ export default function Home() {
 
       <main className="items-center p-24">
         <div className="w-full max-w-5xl items-center mx-auto text-center">
-          <h1 className="font-mono text-5xl">Dream Bigger</h1>
+          <h1 className="font-mono text-6xl">Dream Bigger</h1>
           <p className="mt-4">If you&apos;ve found your way here, you&apos;re likely in the midst of considering a change in your career or thinking about going back to school. This is your go-to community for
           all things related to exploring new career paths and educational opportunities.</p>
         </div>
@@ -36,9 +36,7 @@ export default function Home() {
                 </span>
               </h3>
               <p>Cost: Free</p>
-              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                Learn to code for free.
-              </p>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>Learn to code for free.</p>
             </a>
 
             <a
@@ -49,7 +47,7 @@ export default function Home() {
             >
               <div className="rounded-full px-2 py-1 bg-blue-500 text-white text-xs inline-block mb-2">Coding</div>
               <h3 className={`mb-3 text-xl font-semibold`}>
-                App Academy Open {' '}
+                App Academy Open{' '}
                 <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                   -&gt;
                 </span>
